@@ -3,7 +3,6 @@ Portofolio Pemrograman Web - Muhammad Salman Al Faritzi (202312059)
 Repositori ini berisi tugas-tugas praktikum Pemrograman Web dari Modul 1 sampai Modul 6.
 
 ## Daftar Modul
-## Daftar Modul
 - [Modul 1 - HTML Dasar](Modul-1/)
 - [Modul 2 - CSS Dasar](Modul-2/)
 - [Modul 3 - Layout & Responsif](Modul-3/)
