@@ -1,4 +1,4 @@
-ortofolio Pemrograman Web - Muhammad Salman Al Faritzi (202312059)
+Portofolio Pemrograman Web - Muhammad Salman Al Faritzi (202312059)
 
 Repositori ini berisi tugas-tugas praktikum Pemrograman Web dari Modul 1 sampai Modul 6.
 
